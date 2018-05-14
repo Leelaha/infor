@@ -1,2 +1,2 @@
 # infor
-infor assignmnet A Year in Stats
+infor assignment A Year in Stats
